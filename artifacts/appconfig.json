@@ -7,5 +7,6 @@
   "dockerRegistry": "docker.io/adriangugger",
   "helmChartVersion": "0.0.1",
   "parameters": [],
+  "outletpositions": ["SHELL_HOME_SCREEN"],
   "useShellSDK": false
 }
