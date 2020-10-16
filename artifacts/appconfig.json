@@ -1,0 +1,11 @@
+{
+  "name": "agugger-extension-2",
+  "provider": "SAP",
+  "description": "Adrians extension without Shell SDK",
+  "version": "0.1.0",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSe05ODhVImL2ivmytQs-gvwUXpEcEcOuqRfg&usqp=CAU",
+  "dockerRegistry": "docker.io/adriangugger",
+  "helmChartVersion": "0.0.1",
+  "parameters": [],
+  "useShellSDK": false
+}
